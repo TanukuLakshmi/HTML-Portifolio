@@ -1,24 +1,28 @@
 h1{
 	width: auto;
 	height: 200px;
-  	padding-left: 300px;
+	padding-left: 300px;
   	padding-top: 60px;
   }
 p{
 	width: auto;
-	height: 60px;
+	height: 200px;
 	padding-left: 185px;
+	padding-top: 50px;
 }
 .bgcolor
 {
 	background-color:deeppink;
 	width: auto;
 	height: 200px;
-	padding-left: 190px;
+	margin: 1px;
+	padding-left: 185px;
 	padding-top:20px ;
 }
 #textstyle
 {
+	width: auto;
+	height: 150px;
 	padding-left: 190px;
-	padding-top:10px ;  
+	padding-top:20px ;  
 }
